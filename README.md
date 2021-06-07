@@ -1,3 +1,2 @@
 # Bird-Identifier
-Neural Network learning project.
-Allows you to identify if a given picture is in fact a bird.
+Project I started to practice Neural Networks. Will identify a species if given a picture of a bird.
