@@ -21,4 +21,3 @@ def index():
             image_filename = secure_filename(image)
             image.save(os.path.join(app.config['UPLOAD'],image_filename))
             return redirect(url_for(results.results))
-
